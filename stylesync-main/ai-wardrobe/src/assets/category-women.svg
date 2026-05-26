@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <rect width="100%" height="100%" fill="#fff7ed"/>
+  <rect x="40" y="40" width="520" height="720" rx="20" fill="#7c3aed"/>
+  <text x="300" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#fff7ed">Women Photo</text>
+</svg>
