@@ -10,6 +10,9 @@ class ClothingRequest(BaseModel):
     user_id: str
 
 
+# Clothing Request
+
+
 class OutfitRequest(BaseModel):
     image_url: HttpUrl
     user_id: str
